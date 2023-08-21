@@ -12,7 +12,7 @@ public class BaseTest {
 	@Before
 	public void before() throws Exception {
 		GCONST.setServerName("ecology");
-		GCONST.setRootPath("D:\\ProgramCode\\WeaverWithOutMaven\\web\\");
+		GCONST.setRootPath("D:\\WeaverTest\\web\\");
 		//GCONST.setRootPath("/Users/liutaihong/dev/IdeaProjects/Ec9CustomDev/web/");
 
 
